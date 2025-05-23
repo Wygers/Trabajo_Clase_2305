@@ -17,5 +17,9 @@ En el diagrama de clases para la clase Reserva faltan aributos necesarios que se
 
 ![diagrama2](https://github.com/user-attachments/assets/e1a51254-16c1-440a-bc6b-98b1e3f46ee1)
 
+DIAGRAMA DE IMPLEMENTACIÓN:
+
+En el diagrama de implementación la estructura jerarquizada de los atributos tenían errores que al momento de identificarlos afectan cada componente presente en este diagrama de implementación y la nomenclatura de los atributos estaba inconsistente, la cual se mejoró en ciertos aspectos
+
 
 
