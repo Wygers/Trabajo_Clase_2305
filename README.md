@@ -13,6 +13,7 @@ DIAGRAMA DE CLASES:
 
 En el diagrama de clases para la clase Reserva faltan aributos necesarios que se pueden asociar a otras clases dentro del mismo diagrama, como puede ser el estudiante que está realizando una reserva, el administrador que está gestionando las reservas de los estudiantes que pertenecen al sistema.
 
-![VL91JWCn3Bpd5RdHgke7ze2AAE84IAnuW3Tn8L9YLqws1n1_futSafQbnvsnPyQpMUK2KiOKZOkGitt8PVG1gA3zCjOkBN4Q13lR5mdqNY778iWDjB226MK7qaE4sRn23iXX17cjr07zDcfovrEWa8k0Pwa-2mjRuQ6PLbdt0P-J6izSmYQuWy9zpQCwfBZyCzm_zTScrKcFtnpyEx](https://github.com/user-attachments/assets/0a4f1f81-bb08-413c-bc8c-d40e266d3f1a)
+![diagrama2](https://github.com/user-attachments/assets/e1a51254-16c1-440a-bc6b-98b1e3f46ee1)
+
 
 
