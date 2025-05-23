@@ -8,6 +8,8 @@ DIAGRAMA CASO DE USO:
 
 En el diagrama de caso de uso, hay errores de estructura como son includes, extends, las relaciones deben ser directas, el actor de sistema de notificaciones, se uede implementar como una tarea que realiza en este caso el estudiante, administrador, asociaciones entre actores, como estudiante hacia ver histrial de reservas esta mal implementado contando con la organización de los actores que esta poco entendible para los usuarios.
 
+![diagrama1](https://github.com/user-attachments/assets/dfdb0ecf-6993-4d95-a395-0c56ecad6245)
+
 
 DIAGRAMA DE CLASES:
 
